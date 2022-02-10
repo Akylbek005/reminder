@@ -29,4 +29,4 @@ python manage.py crontab add
 ```bash
 python manage.py crontab run <hash>
 ```
-В нашем случае <hash> это `161efb8efccfcd66489829bc358a7807`
+В нашем случае `hash` это `161efb8efccfcd66489829bc358a7807`
