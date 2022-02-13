@@ -22,5 +22,5 @@ def remind_birthday():
             subject='Happy birthday!',
             message=message,
             from_email='iakylbek005@gmai.com',
-            recipient_list=['iakylbek005@gmail.com']
+            recipient_list=['iakylbek005@gmail.com', 'admin@migrantnews.ru']
         )
